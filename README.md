@@ -3,6 +3,7 @@
 clone 후 아래 정보를 입력하세요.
 
 이름: 
+
 학번: 
 
 # 2020-1-steering-behavior-test_env
