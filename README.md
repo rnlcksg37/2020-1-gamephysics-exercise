@@ -12,6 +12,12 @@
 
 # 구성
 
+## 6주차
+
+Flee, Arrive
+
+Seek <-> Arrive는 주석으로 처리함.
+
 ## 5주차
 
 조종행동 Seek
